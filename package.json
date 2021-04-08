@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "evil-package": "git+https://github.com/tyage/sample-package2.git"
+    "tyage-sample-package2":"1.0.0"
   }
 }
